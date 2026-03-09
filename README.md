@@ -2,8 +2,10 @@
 
 A rigorous, capital-preservation-focused equity analysis skill for Claude. Built on Buffett/Munger principles: durable moats, margin of safety, and normalized earning power — not momentum, not narratives, not vibes.
 
+---------------------------------
 ### DISCLAIMER
 **NOT A FINANCIAL ADVICE, PLEASE DO YOUR OWN RESEARCH AS WELL. THIS TOOL IS FOR RESEARCH PURPOSES ONLY**
+---------------------------------
 
 ## What It Does
 

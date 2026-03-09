@@ -58,5 +58,4 @@ Just ask Claude an investing question. The skill will:
 | **Sleep Test** | "Would I hold this for 10 years with no exit?" — final override |
 
 ## License
-
-MIT — use it, fork it, improve it.
+Please review the license if you are using if for commercial purposes or any other official research purposes.
